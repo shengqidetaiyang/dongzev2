@@ -1,0 +1,38 @@
+/* 
+* @Author: Marte
+* @Date:   2017-03-22 16:35:51
+* @Last Modified by:   Marte
+* @Last Modified time: 2017-03-22 16:52:10
+*/
+.contain .order .process .up .heng span{
+    border-radius:0;
+}
+.contain .order .process .up .heng .b{
+    background:#a60400;
+}
+.contain .order .process .up .heng .c{
+    background:#a60400;
+}
+.contain .order .process .up>.one{
+    background-color:#a60400;
+}
+.contain .order .process .up>.two{
+    background-color:#a60400;
+}
+.contain .order .process .up>.three{
+    background-color:#a60400;
+}
+.contain .order .bottomImg{
+    width:40px;
+    height:40px;
+    margin-left:188px;
+    margin-top:20px;
+    margin-bottom:10px;
+}
+.contain .order .bottom{
+    height:36px;
+    line-height:36px;
+    color:#3d3d3d;
+    padding-left:147px;
+    font-size:16px;
+}

@@ -1,0 +1,38 @@
+/* 
+* @Author: Marte
+* @Date:   2017-03-22 13:47:55
+* @Last Modified by:   Marte
+* @Last Modified time: 2017-03-23 10:08:28
+*/
+.contain .order{
+    margin-left:42px;
+    width:932px;
+}
+.contain .order .nowAccount{
+    color:#3d3d3d;
+    height:24px;
+    line-height:24px;
+}
+.contain .order .phone{
+    height:50px;
+    line-height:50px;
+}
+.contain .order .phone span,.contain .order .phone a{
+    float:left;
+    height:50px;
+}
+.contain .order .phone .first{
+    width:156px;
+    text-indent:27px;
+    color:#3d3d3d;
+    background:url(../../image/icon/account.png) left center no-repeat;
+    background-size:14px 14px;
+}
+.contain .order .phone .second{
+    width:460px;
+    margin-right:210px;
+    color:#b5b5b5;
+}
+.contain .order .phone a{
+    color:#1bafe0;
+}

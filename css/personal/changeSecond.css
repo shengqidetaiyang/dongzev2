@@ -1,0 +1,24 @@
+/* 
+* @Author: Marte
+* @Date:   2017-03-22 16:35:51
+* @Last Modified by:   Marte
+* @Last Modified time: 2017-03-22 17:01:55
+*/
+.contain .order .process .up .heng .b{
+    background:#a60400;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.contain .order .process .up>.two{
+    background-color:#a60400;
+}
+.contain .order .process .up .heng .a{
+    border-radius:0;
+}
+form .newPhone{
+    margin-bottom:10px;
+    margin-top:72px;
+}
+form p input{
+    text-indent:16px;
+}
